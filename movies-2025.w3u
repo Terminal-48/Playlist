@@ -1,10 +1,505 @@
 {
   "name": "หนัง ปี 2025",
-  "author": "อัพเดท 30/03/2025",
+  "author": "อัพเดท 31/03/2025",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Moviemovies-2025.w3u",
   "groups": [
+    {
+      "name": "A Working Man (2025) นรกหยุดนรก",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/A-Working-Man.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "A Working Man (2025) นรกหยุดนรก",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/A-Working-Man.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/eb280a42wYuA1/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Control Freak (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Control-Freak.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/c5091013qrBTJ/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Silent Zone (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Silent-Zone.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/b6da454bKNJRQ/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Woods of Ash (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Woods-of-Ash.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/182d5103Oydoz/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Golden Voice (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Golden-Voice.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/9cee352eAxdwM/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Game Changer (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Game-Changer.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/7cfe98d3Csla0/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Cold Wallet (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2023/10/Cold-Wallet.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/ea9a543b6o5XS/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Mickey 17 (2025) มิกกี้ 17",
+          "image": "https://22-hd.com/wp-content/uploads/2023/10/Mickey-17-1.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/fd191f7afHVMW/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "I’m Still Here (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Im-Still-Here.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/63d96ce6gusoR/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Thandel (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Thandel.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/08aa96a1sqr4U/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Delicious (2025) โอชะ",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Delicious.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/d962bc5cPyrxu/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Delicious (2025) โอชะ",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Delicious.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/5475d4c7y7CMs/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Kadhalikka Neramillai (2025) ไม่มีเวลารัก",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Kadhalikka-Neramillai.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/26c2c6a99FgTk/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "VidaaMuyarchi (2025) ผู้ชายใจไม่พ่าย",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/VidaaMuyarchi.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/e99f5b61MK8ck/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Uppercut (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Uppercut.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/da07b714mWLCX/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Sky Force (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Sky-Force.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/4cc492f2F5dMI/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Captain America: Brave New World (2025) กัปตัน อเมริกา: ศึกฮีโร่จักรวาลใหม่",
+          "image": "https://22-hd.com/wp-content/uploads/2023/10/Captain-America-Brave-New-World-1.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/5c924f67baC3t/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Captain America: Brave New World (2025) กัปตัน อเมริกา: ศึกฮีโร่จักรวาลใหม่",
+          "image": "https://22-hd.com/wp-content/uploads/2023/10/Captain-America-Brave-New-World-1.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/9c538fb2FZ6lD/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Royal We (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Royal-We.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/181d95dfNGzIk/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "William Tell (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/William-Tell.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/fd6b70b8nOgHp/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Brutalist (2025) เดอะ บรูทัลลิสต์",
+          "image": "https://22-hd.com/wp-content/uploads/2025/01/The-Brutalist-2025.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/fd6b70b8nOgHp/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Fight or Flight (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Fight-or-Flight.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/fd6b70b8nOgHp/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Devaki Nandana Vasudeva (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Devaki-Nandana-Vasudeva.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/2834215d0mDR2/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Counterstrike (2025) ฝ่านรกกองโจร",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Counterstrike.webp",
+          "url": "/playlist2/2e97a4fachzpS/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Squad 36 (2025) หน่วย 36: ตำรวจมือพระกาฬ",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Squad-36.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/a12ebb3bJgExh/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "We Kill Them All (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/We-Kill-Them-All.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/4f903f0b2ofFz/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Demon City (2025) เมืองอสูร",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Demon-City.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/de45c0ceUNCIR/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Sosyal Climbers (2025) ตกกระไดพลอยรวย",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Sosyal-Climbers.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/06ceed95p5l13/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Sosyal Climbers (2025) ตกกระไดพลอยรวย",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Sosyal-Climbers.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/9bb85623EM8Tm/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Wrong Track (2025) เส้นทางพิสูจน์ใจ",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Wrong-Track.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/56154329yhPex/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Cleaner (2025) ไต่ระทึกตึกนรก",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Cleaner-2025.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/b7be44e5Q6ZRO/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Monkey (2025) จ๋อจัดตาย",
+          "image": "https://22-hd.com/wp-content/uploads/2024/12/The-Monkey.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/edfdd7144lvS3/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "The Monkey (2025) จ๋อจัดตาย",
+          "image": "https://22-hd.com/wp-content/uploads/2024/12/The-Monkey.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/b18a28fdozXWc/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "A Copenhagen Love Story (2025) รักฉบับโคเปนเฮเกน",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/A-Copenhagen-Love-Story.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/89953f64xGV9S/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "A Copenhagen Love Story (2025) รักฉบับโคเปนเฮเกน",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/A-Copenhagen-Love-Story.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/1a0fa089mDBkr/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Miss Italia Mustn’t Die (2025) นางงามอิตาลีต้องไม่ตาย",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Miss-Italia-Mustnt-Die.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/8f4f979782FcT/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Millers in Marriage (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Millers-in-Marriage.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/be50419c3C8xy/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Slide (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Slide.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/3c3eaceaHfsej/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Popeye’s Revenge (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Popeyes-Revenge.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/e63b0bdaM9eCU/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Companion (2025) คอมแพเนียน",
+          "image": "https://22-hd.com/wp-content/uploads/2024/11/Companion-2025.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/136cde45l9WsM/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Companion (2025) คอมแพเนียน",
+          "image": "https://22-hd.com/wp-content/uploads/2024/11/Companion-2025.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/97d1ca72hoR1F/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Bayou (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Bayou.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/becac32e5jyFg/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Daaku Maharaaj (2025) ราชาไร้อาณาจักร",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Daaku-Maharaaj-2024.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/c5af6535bv0QB/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Bone Face (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Bone-Face.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/c31e410cMwiJm/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Uncredited: The Story of Passinho (2025) ปาสซินโญ: เบื้องหลังระบำถนนแห่งบราซิล",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Uncredited-The-Story-of-Passinho.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/4f5f19e3L1dQO/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Return to Office (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Return-to-Office.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/c782c271aDtFX/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Valiant One (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Valiant-One.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/0906b2f4RhAxV/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Online Selling (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Online-Selling.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/b69b1c8ciah2L/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Broken Rage (2025) เส้นทางสุดพังของป๋าซ่า",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Broken-Rage.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/1fea1bb6v0HEI/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Chasing the Wind (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Chasing-the-Wind.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/914e3dc0pGzxq/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Dead Thing (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Dead-Thing.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/a235ccf3xFEJV/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Marked Men: Rule + Shaw (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Marked-Men-Rule-Shaw.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/bd11b05fi8RMb/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Most Beautiful Girl in the World (2025) ผู้หญิงที่สวยที่สุดในโลก",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Most-Beautiful-Girl-in-the-World.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/dafbd6835rDqU/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Love Forever (2025) รักนิรันดร์",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Love-Forever.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/dafbd6835rDqU/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Love Forever (2025) รักนิรันดร์",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Love-Forever.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/dafbd6835rDqU/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Bridget Jones: Mad About the Boy (2025) บริดเจ๊ท โจนส์ หลงหนุ่มหนักมาก",
+          "image": "https://22-hd.com/wp-content/uploads/2023/10/Bridget-Jones-Mad-About-the-Boy.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/9405d03aTGmkd/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Gorge (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2024/12/The-Gorge.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/3502f94d0fos4/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Umjolo: There Is No Cure (2025) ไม่มีทางรักษา",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Umjolo-There-Is-No-Cure.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/33f59341aydNs/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Dhoom-Dhaam.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/33f59341aydNs/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Dhoom-Dhaam.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/33f59341aydNs/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Mouse of Horrors (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Mouse-of-Horrors.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/1edfb7dabCZeh/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "One of Them Days (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/One-of-Them-Days.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/b6c6b9321lINa/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/La-Dolce-Villa.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/1c42a0d5CLYDz/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/La-Dolce-Villa.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/3268f0d3mvT0i/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Honeymoon Crasher (2025) ตัวป่วนฮันนีมูน",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Honeymoon-Crasher.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/3268f0d3mvT0i/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Honeymoon Crasher (2025) ตัวป่วนฮันนีมูน",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Honeymoon-Crasher.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/3268f0d3mvT0i/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Death Before the Wedding (2025) ตายก่อนแต่ง",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Death-Before-the-Wedding.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/fe0f524cm4euU/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Inheritance (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2024/12/Inheritance-2025.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/667ba51czIfa0/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Can You Feel the Beat: The Lisa Lisa Story (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Can-You-Feel-the-Beat-The-Lisa-Lisa-Story.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/ad44d248ORh9J/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Green and Gold (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Green-and-Gold.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/f8d75f86yJ0qN/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "The Lion King at the Hollywood Bowl (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Lion-King-at-the-Hollywood-Bowl.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/3c52b95e2CBdP/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Dog Man (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Dog-Man.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/e2332f04uGwF5/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Love Hurts (2025) ด้วยรักและลูกปืน",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Love-Hurts.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/7fcfce18vk6Hp/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "Heart Eyes (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/Heart-Eyes.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/49136a2fCU24x/master.m3u8",
+          "info": "ซับไทย"
+        },
+        {
+          "name": "With You in the Future (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/02/With-You-in-the-Future.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/1bc0210fYwQ0p/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
+    },
+    {
+      "name": "Holland (2025) ฮอลแลนด์ เมืองหลอนซ่อนความลับ",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Holland.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "Holland (2025) ฮอลแลนด์ เมืองหลอนซ่อนความลับ",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Holland.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/811a25e9zcRhw/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Holland (2025) ฮอลแลนด์ เมืองหลอนซ่อนความลับ",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Holland.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/aeb0a0a12vOex/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
+    },
+    {
+      "name": "The Life List (2025) รายการชีวิต",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Life-List.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Life List (2025) รายการชีวิต",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Life-List.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/dde7cb7bWkMT3/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "The Life List (2025) รายการชีวิต",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Life-List.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/ac4f099f8BVub/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
+    },
     {
       "name": "A Knight’s War (2025)",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/A-Knights-War.webp",
@@ -14,84 +509,6 @@
           "name": "A Knight’s War (2025)",
           "image": "https://22-hd.com/wp-content/uploads/2025/03/A-Knights-War.webp",
           "url": "https://text-lb.xmoviedo24.com/playlist2/17e61a0aEYLOh/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Uncontained (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Uncontained.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/f7d4adefZE75M/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Last Breath (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2024/12/Last-Breath.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/766c7a1dk0Ptj/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Novocaine.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/a07693ffC5PBF/master.m3u8",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Novocaine.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/9f60aa9fuwJEk/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "The 8th Day (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-8th-Day.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/9f60aa9fuwJEk/master.m3u8",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "The 8th Day (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-8th-Day.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/017f986cZx43A/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "High Rollers (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/High-Rollers.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/9a30c52dS9OIv/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Royal-ish (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Royal-ish.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/b969a93dMLbyv/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Batman Ninja vs. Yakuza League (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Batman-Ninja-vs-Yakuza-League.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/3e650d32eU9Bm/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Emergency (2025) ฉุกเฉิน",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Emergency.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/f64b4bd6Fq6SK/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Be Happy (2025) จังหวะฝัน วันสุขใจ",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Be-Happy.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/89d394cb0ch3y/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Suky (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Suky.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/9ba757e5cJdxs/master.m3u8",
-          "info": "ซับไทย"
-        },
-        {
-          "name": "Borderline (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Borderline.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/d42a1fee1eyju/master.m3u8",
           "info": "ซับไทย"
         }
       ]
@@ -188,32 +605,6 @@
       ]
     },
     {
-      "name": "The Devil and the Daylong Brothers (2025)",
-      "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Devil-and-the-Daylong-Brothers.webp",
-      "info": "",
-      "stations": [
-        {
-          "name": "The Devil and the Daylong Brothers (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Devil-and-the-Daylong-Brothers.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/bce53c32GK0Vc/master.m3u8",
-          "info": "ซับไทย"
-        }
-      ]
-    },
-    {
-      "name": "High Ground (2025)",
-      "image": "https://22-hd.com/wp-content/uploads/2025/03/High-Ground.webp",
-      "info": "",
-      "stations": [
-        {
-          "name": "High Ground (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/High-Ground.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/c0a04f8dzyPma/master.m3u8",
-          "info": "ซับไทย"
-        }
-      ]
-    },
-    {
       "name": "Bloat (2025)",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/Bloat.webp",
       "info": "",
@@ -240,6 +631,19 @@
       ]
     },
     {
+      "name": "Ne Zha 2 (2025) นาจา 2",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Ne-Zha-2.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "Ne Zha 2 (2025) นาจา 2",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Ne-Zha-2.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/39dfdb467QNkB/master.m3u8",
+          "info": "พากย์ไทย"
+        }
+      ]
+    },
+    {
       "name": "Love Me (2025)",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/Love-Me.webp",
       "info": "",
@@ -253,14 +657,27 @@
       ]
     },
     {
-      "name": "Riff Raff (2025)",
-      "image": "https://22-hd.com/wp-content/uploads/2025/03/Riff-Raff.webp",
+      "name": "The Tattooist’s Son: Journey to Auschwitz (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Tattooists-Son-Journey-to-Auschwitz.webp",
       "info": "",
       "stations": [
         {
-          "name": "Riff Raff (2025)",
-          "image": "https://22-hd.com/wp-content/uploads/2025/03/Riff-Raff.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/792a4c92tfRoT/master.m3u8",
+          "name": "The Tattooist’s Son: Journey to Auschwitz (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Tattooists-Son-Journey-to-Auschwitz.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/f577b261bi1Jk/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
+    },
+    {
+      "name": "Popeye the Slayer Man (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Popeye-the-Slayer-Man.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "Popeye the Slayer Man (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Popeye-the-Slayer-Man.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/65ad22aelaejn/master.m3u8",
           "info": "ซับไทย"
         }
       ]
@@ -285,6 +702,25 @@
       ]
     },
     {
+      "name": "Revelations (2025) นิมิตสวรรค์",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Revelations.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "Revelations (2025) นิมิตสวรรค์",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Revelations.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/1c945d91SKkAd/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "Revelations (2025) นิมิตสวรรค์",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Revelations.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/f7548d28HeyPu/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
+    },
+    {
       "name": "Snow White (2025) สโนว์ไวท์",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/Snow-White.webp",
       "info": "",
@@ -294,6 +730,19 @@
           "image": "https://22-hd.com/wp-content/uploads/2025/03/Snow-White.webp",
           "url": "https://text-lb.xmoviedo24.com/playlist2/d822ca02q3bvF/master.m3u8",
           "info": "พากย์ไทย"
+        }
+      ]
+    },
+    {
+      "name": "O’Dessa (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/ODessa.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "O’Dessa (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/ODessa.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/374d3c1dZXs2A/master.m3u8",
+          "info": "ซับไทย"
         }
       ]
     },
@@ -324,87 +773,502 @@
       ]
     },
     {
-      "name": "Grafted (2025) ถลก…นังหน้าสวย",
-      "image": "https://22-hd.com/wp-content/uploads/2025/01/Grafted.webp",
+      "name": "Attack on Titan: The Last Attack (2025) ผ่าพิภพไททัน การจู่โจมครั้งสุดท้าย",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Attack-on-Titan-the-Movie-The-Last-Attack.webp",
       "info": "",
       "stations": [
         {
-          "name": "Grafted (2025) ถลก…นังหน้าสวย",
-          "image": "https://22-hd.com/wp-content/uploads/2025/01/Grafted.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/b52ab729QzW9E/master.m3u8",
+          "name": "Attack on Titan: The Last Attack (2025) ผ่าพิภพไททัน การจู่โจมครั้งสุดท้าย",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Attack-on-Titan-the-Movie-The-Last-Attack.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/6e53b9b4LIl6E/master.m3u8",
           "info": "พากย์ไทย"
-        },
-        {
-          "name": "Grafted (2025) ถลก…นังหน้าสวย",
-          "image": "https://22-hd.com/wp-content/uploads/2025/01/Grafted.webp",
-          "url": "https://text-lb.xmoviedo24.com/playlist2/27cfd9eaRLvxy/master.m3u8",
-          "info": "ซับไทย"
         }
       ]
-    },
-    {
-      "name": "Uncontained (2025)",
-      "image": "https://22-hd.com/wp-content/uploads/2025/03/Uncontained.webp",
-      "info": "",
-      "stations": []
-    },
-    {
-      "name": "Last Breath (2025)",
-      "image": "https://22-hd.com/wp-content/uploads/2024/12/Last-Breath.webp",
-      "info": "",
-      "stations": []
-    },
-    {
-      "name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
-      "image": "https://22-hd.com/wp-content/uploads/2025/03/Novocaine.webp",
-      "info": "",
-      "stations": []
     },
     {
       "name": "The 8th Day (2025)",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/The-8th-Day.webp",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "The 8th Day (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-8th-Day.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/6e53b9b4LIl6E/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "The 8th Day (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-8th-Day.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/017f986cZx43A/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
     },
     {
       "name": "High Rollers (2025)",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/High-Rollers.webp",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "High Rollers (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/High-Rollers.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/9a30c52dS9OIv/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
     },
     {
       "name": "Royal-ish (2025)",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/Royal-ish.webp",
       "info": "",
-      "stations": []
-    },
-    {
-      "name": "Batman Ninja vs. Yakuza League (2025)",
-      "image": "https://22-hd.com/wp-content/uploads/2025/03/Batman-Ninja-vs-Yakuza-League.webp",
-      "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "Royal-ish (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Royal-ish.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/b969a93dMLbyv/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
     },
     {
       "name": "Emergency (2025) ฉุกเฉิน",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/Emergency.webp",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "Emergency (2025) ฉุกเฉิน",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Emergency.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/f64b4bd6Fq6SK/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
     },
     {
       "name": "Be Happy (2025) จังหวะฝัน วันสุขใจ",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/Be-Happy.webp",
       "info": "",
-      "stations": []
-    },
-    {
-      "name": "Suky (2025)",
-      "image": "https://22-hd.com/wp-content/uploads/2025/03/Suky.webp",
-      "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "Be Happy (2025) จังหวะฝัน วันสุขใจ",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Be-Happy.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/89d394cb0ch3y/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
     },
     {
       "name": "Borderline (2025)",
       "image": "https://22-hd.com/wp-content/uploads/2025/03/Borderline.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "Borderline (2025)",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/Borderline.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/d42a1fee1eyju/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
+    },
+    {
+      "name": "The Electric State (2025) ท่องแดนจักรกล",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Electric-State.webp",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Electric State (2025) ท่องแดนจักรกล",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Electric-State.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/0b132473VTUf1/master.m3u8",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "The Electric State (2025) ท่องแดนจักรกล",
+          "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Electric-State.webp",
+          "url": "https://text-lb.xmoviedo24.com/playlist2/c72f41b9gLD58/master.m3u8",
+          "info": "ซับไทย"
+        }
+      ]
+    },
+    {
+      "name": "Control Freak (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Control-Freak.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Silent Zone (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Silent-Zone.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Woods of Ash (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Woods-of-Ash.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Golden Voice (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Golden-Voice.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Game Changer (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Game-Changer.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Cold Wallet (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2023/10/Cold-Wallet.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Mickey 17 (2025) มิกกี้ 17",
+      "image": "https://22-hd.com/wp-content/uploads/2023/10/Mickey-17-1.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "I’m Still Here (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Im-Still-Here.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Thandel (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Thandel.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Delicious (2025) โอชะ",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Delicious.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Kadhalikka Neramillai (2025) ไม่มีเวลารัก",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Kadhalikka-Neramillai.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "VidaaMuyarchi (2025) ผู้ชายใจไม่พ่าย",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/VidaaMuyarchi.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Uppercut (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Uppercut.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Sky Force (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Sky-Force.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Captain America: Brave New World (2025) กัปตัน อเมริกา: ศึกฮีโร่จักรวาลใหม่",
+      "image": "https://22-hd.com/wp-content/uploads/2023/10/Captain-America-Brave-New-World-1.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Royal We (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/The-Royal-We.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "William Tell (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/William-Tell.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Brutalist (2025) เดอะ บรูทัลลิสต์",
+      "image": "https://22-hd.com/wp-content/uploads/2025/01/The-Brutalist-2025.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Fight or Flight (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Fight-or-Flight.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Devaki Nandana Vasudeva (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/03/Devaki-Nandana-Vasudeva.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Counterstrike (2025) ฝ่านรกกองโจร",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Counterstrike.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Squad 36 (2025) หน่วย 36: ตำรวจมือพระกาฬ",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Squad-36.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "We Kill Them All (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/We-Kill-Them-All.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Demon City (2025) เมืองอสูร",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Demon-City.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Sosyal Climbers (2025) ตกกระไดพลอยรวย",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Sosyal-Climbers.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Wrong Track (2025) เส้นทางพิสูจน์ใจ",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Wrong-Track.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Cleaner (2025) ไต่ระทึกตึกนรก",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Cleaner-2025.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Monkey (2025) จ๋อจัดตาย",
+      "image": "https://22-hd.com/wp-content/uploads/2024/12/The-Monkey.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "A Copenhagen Love Story (2025) รักฉบับโคเปนเฮเกน",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/A-Copenhagen-Love-Story.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Miss Italia Mustn’t Die (2025) นางงามอิตาลีต้องไม่ตาย",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Miss-Italia-Mustnt-Die.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Millers in Marriage (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Millers-in-Marriage.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Slide (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Slide.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Popeye’s Revenge (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Popeyes-Revenge.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Companion (2025) คอมแพเนียน",
+      "image": "https://22-hd.com/wp-content/uploads/2024/11/Companion-2025.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Bayou (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Bayou.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Daaku Maharaaj (2025) ราชาไร้อาณาจักร",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Daaku-Maharaaj-2024.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Bone Face (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Bone-Face.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Uncredited: The Story of Passinho (2025) ปาสซินโญ: เบื้องหลังระบำถนนแห่งบราซิล",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Uncredited-The-Story-of-Passinho.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Return to Office (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Return-to-Office.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Valiant One (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Valiant-One.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Online Selling (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Online-Selling.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Broken Rage (2025) เส้นทางสุดพังของป๋าซ่า",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Broken-Rage.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Chasing the Wind (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Chasing-the-Wind.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Dead Thing (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Dead-Thing.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Marked Men: Rule + Shaw (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Marked-Men-Rule-Shaw.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Most Beautiful Girl in the World (2025) ผู้หญิงที่สวยที่สุดในโลก",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Most-Beautiful-Girl-in-the-World.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Love Forever (2025) รักนิรันดร์",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Love-Forever.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Bridget Jones: Mad About the Boy (2025) บริดเจ๊ท โจนส์ หลงหนุ่มหนักมาก",
+      "image": "https://22-hd.com/wp-content/uploads/2023/10/Bridget-Jones-Mad-About-the-Boy.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Gorge (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2024/12/The-Gorge.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Umjolo: There Is No Cure (2025) ไม่มีทางรักษา",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Umjolo-There-Is-No-Cure.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Dhoom-Dhaam.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Mouse of Horrors (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Mouse-of-Horrors.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "One of Them Days (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/One-of-Them-Days.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/La-Dolce-Villa.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Honeymoon Crasher (2025) ตัวป่วนฮันนีมูน",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Honeymoon-Crasher.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Death Before the Wedding (2025) ตายก่อนแต่ง",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Death-Before-the-Wedding.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Inheritance (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2024/12/Inheritance-2025.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Can You Feel the Beat: The Lisa Lisa Story (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Can-You-Feel-the-Beat-The-Lisa-Lisa-Story.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Green and Gold (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Green-and-Gold.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "The Lion King at the Hollywood Bowl (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/The-Lion-King-at-the-Hollywood-Bowl.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Dog Man (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Dog-Man.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Love Hurts (2025) ด้วยรักและลูกปืน",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Love-Hurts.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "Heart Eyes (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/Heart-Eyes.webp",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "With You in the Future (2025)",
+      "image": "https://22-hd.com/wp-content/uploads/2025/02/With-You-in-the-Future.webp",
       "info": "",
       "stations": []
     }
